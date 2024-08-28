@@ -1,0 +1,1 @@
+Designed the DB structure for guvi's zen class portal https://zenclass.in student's login.
